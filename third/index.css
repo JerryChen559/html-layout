@@ -1,0 +1,44 @@
+* {
+  margin: 0%;
+  padding: 0%;
+}
+.part1 {
+  background-color: gray;
+  height: 10vh;
+}
+.box {
+  background-color: blue;
+  height: 40px;
+  width: 40px;
+  margin-left: 20px;
+}
+
+.part2 {
+  background-color: lightgrey;
+  height: 30vh;
+}
+.text {
+  box-sizing: border-box;
+  padding: 40px;
+  width: 80vw;
+}
+
+.part3 {
+  background-color: blue;
+  height: 15vh;
+}
+
+.part4 {
+  background-color: turquoise;
+  height: 15vh;
+}
+
+.part5 {
+  background-color: lawngreen;
+  height: 15vh;
+}
+
+.part6 {
+  background-color: gold;
+  height: 15vh;
+}
